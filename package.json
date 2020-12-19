@@ -1,0 +1,56 @@
+{
+  "name": "vidflix-react",
+  "version": "1.0.0",
+  "description": "Vidflix - movie streaming application.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "NODE_ENV='production' webpack"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-class-properties",
+      "syntax-dynamic-import"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moisestech/vidflix-react.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Hooks",
+    "Netflix"
+  ],
+  "author": "Moises Sanabria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moisestech/vidflix-react/issues"
+  },
+  "homepage": "https://github.com/moisestech/vidflix-react#readme",
+  "dependencies": {
+    "babel-plugin-syntax-dynamic-import": "",
+    "prop-types": "",
+    "react": "",
+    "react-dom": "",
+    "react-router-dom": ""
+  },
+  "devDependencies": {
+    "@babel/core": "",
+    "@babel/plugin-proposal-class-properties": "",
+    "@babel/preset-env": "",
+    "@babel/preset-react": "",
+    "babel-loader": "",
+    "copy-webpack-plugin": "",
+    "css-loader": "",
+    "html-webpack-plugin": "",
+    "style-loader": "",
+    "webpack": "",
+    "webpack-cli": "",
+    "webpack-dev-server": ""
+  }
+}
