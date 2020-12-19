@@ -1,0 +1,88 @@
+/* APP */
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #111;
+}
+
+/* BANNER */
+
+.banner {
+
+}
+
+.banner-contents {
+
+}
+
+.banner-title {
+
+}
+
+.banner-description {
+
+}
+
+.banner-button {
+
+}
+
+.banner-button:hover {
+
+}
+
+.banner-fade-bottom {
+
+}
+
+
+/* NAV */
+
+.nav {
+
+}
+
+.nav-black {
+
+}
+
+.nav-logo {
+
+}
+
+.nav-avatar {
+
+}
+
+
+/* ROW */
+
+.row {
+
+}
+
+.row-posters {
+
+}
+
+.row-posts::-webkit-scrollbar {
+
+}
+
+.row-poster {
+
+}
+
+.row-poster:hover {
+
+}
+
+.row-poster-large {
+
+}
+
+.row-poster-large:hover {
+
+}
